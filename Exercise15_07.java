@@ -6,11 +6,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
-/**
- * *15.7 (Change color using a mouse) Write a program that displays the color of a
- * circle as black when the mouse button is pressed and as white when the mouse
- * button is released.
- */
+
 public class Exercise15_07 extends javafx.application.Application {
 
     @Override
